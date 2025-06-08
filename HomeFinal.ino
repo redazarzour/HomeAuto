@@ -15,14 +15,14 @@ portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;
 
 // WiFi Configuration (Multi-AP)
 WiFiMulti wifiMulti;
-const char* ssid_4G = "Idoom4G_AT_B311_BB4B";
-const char* password_4G = "G411DEM8A8M";
-const char* ssid_portable = "Riad";
+const char* ssid_4G = "xxxxxxxxxxxxxxx";
+const char* password_4G = "xxxxxxxxxxxxxxxxxxx";
+const char* ssid_portable = "xxxxx";
 const char* password_portable = "77777777";
 
 // Firebase Configuration
-const char* firebaseHost = "dbzarzour-default-rtdb.firebaseio.com";
-const char* firebaseAuth = "QSRJGBpaSq5F9hK5PpNhPfCPWx2QSihnwFYjtEzU";
+const char* firebaseHost = "xxxxxxxxx.firebaseio.com";
+const char* firebaseAuth = "xxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 // Sensor Configuration
 const int flowSensorPin = 35;  // GPIO4 (Flow meter)
